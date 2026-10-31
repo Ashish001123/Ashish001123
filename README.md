@@ -1,61 +1,101 @@
-# 👋 Hey, I'm Ashish Khatri
+# 👋 Hey, I'm Ashish Khatri!
 
-### Building intelligent products. Engineering scalable systems. Exploring AI.
+### Software Engineer | Full-Stack Developer | AI & Backend Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Backend+Engineering+Enthusiast;Building+Real+World+Products;Turning+Ideas+Into+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Engineering+Enthusiast;AI+%26+Agentic+AI+Explorer;Building+Scalable+Applications;Turning+Ideas+Into+Real+Products" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ashish001123">GitHub</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_LEETCODE_URL">LeetCode</a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-58A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Exploring-Generative%20AI-9B59B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-India-138808?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ashish001123">
+    <img src="https://img.shields.io/badge/GitHub-Ashish001123-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-## ◈ DEVELOPER OVERVIEW
+# ◈ DEVELOPER DASHBOARD
 
-| PROFILE | DETAILS |
-|:---|:---|
-| 🎓 Education | BE Computer Science Engineering – Chitkara University |
-| 🌍 International Experience | TU Chemnitz, Germany |
-| 💻 Primary Focus | Full-Stack & Backend Engineering |
-| 🤖 Exploring | AI Agents, LLMs, RAG & Generative AI |
-| 🧠 Problem Solving | 100+ LeetCode Problems |
-| 🎯 Current Mission | Building production-ready AI applications |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 About Me
+
+I'm a Computer Science Engineering student passionate about building scalable applications, intelligent systems and real-world software products.
+
+- 🎓 Chitkara University
+- 🌍 International academic experience at TU Chemnitz, Germany
+- 💻 Full-Stack & Backend Development
+- 🤖 Generative AI and AI Agents
+- 🧠 100+ LeetCode problems solved
+- 🚀 Building products from scratch
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Current Interests
+
+- Backend system architecture
+- REST API development
+- Distributed systems
+- Large Language Models
+- Retrieval-Augmented Generation
+- Autonomous AI Agents
+- Browser Automation
+- Software Testing
+- System Design
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ◈ FEATURED PROJECTS
+# 🚀 FLAGSHIP PROJECTS
 
 <p align="center">
-  <b>THREE PRODUCTS. THREE DIFFERENT PROBLEMS. ONE BUILDER.</b>
+  <b>BUILDING PRODUCTS THAT SOLVE REAL-WORLD PROBLEMS</b>
 </p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤖 SmartAway AI</h3>
+<h3>🤖 SmartWay AI</h3>
 
-**AI-Powered Intelligent Chat Platform**
+<img src="https://img.shields.io/badge/AI-Powered-8A63D2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full--Stack-Application-238636?style=flat-square"/>
 
-An intelligent conversational application designed to make interactions and task execution smarter.
+**Intelligent AI Chat & Personal Assistant**
 
-**Core focus**
-- AI-powered conversations
-- Intelligent scheduling agent
-- Context-aware interactions
-- AI integration and backend services
+An AI-powered real-time chat application that communicates with your contacts on your behalf when you are busy.
 
-**Technology**
-<br/>
-`Python` `LLMs` `RAG` `FastAPI`
+**Key Features**
+
+- AI-powered busy assistant
+- Real-time messaging with Socket.IO
+- Context-aware AI conversations
+- Google Calendar integration
+- Intelligent callback scheduling
+- RAG-powered AI assistant
+- Telegram, email and web push alerts
+- End-to-end encrypted messaging
+- Conversation summaries and priorities
+
+**Technology Stack**
+
+`React` `Node.js` `Express` `Python` `FastAPI` `MongoDB` `Socket.IO` `Zustand` `LangChain` `Qdrant`
 
 <p>
-<a href="YOUR_SMARTAWAY_REPO_URL">
-<img src="https://img.shields.io/badge/Explore_Project-238636?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Ashish001123/SmartAway_AI">
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
@@ -64,51 +104,66 @@ An intelligent conversational application designed to make interactions and task
 
 <h3>📄 Resume Analyzer</h3>
 
-**AI-Powered Resume Intelligence**
+<img src="https://img.shields.io/badge/AI-Career_Technology-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full--Stack-Application-238636?style=flat-square"/>
 
-A platform focused on helping candidates understand and improve their resumes for job opportunities.
+**AI-Powered Resume Intelligence Platform**
 
-**Core focus**
-- Resume analysis
-- Skills extraction
-- Job description matching
-- Resume improvement insights
+A full-stack application focused on resume reading, processing and career-related analysis.
 
-**Technology**
-<br/>
-`Python` `FastAPI` `NLP` `AI`
+**Project Focus**
+
+- Resume processing
+- Resume information extraction
+- Career-related analysis
+- Frontend and backend integration
+- User authentication
+- Database management
+- API-based architecture
+
+**Technology Stack**
+
+`React 19` `Vite` `JavaScript` `Tailwind CSS` `Zustand` `Axios` `Node.js` `Express 5` `MongoDB` `Mongoose` `JWT`
 
 <p>
-<a href="YOUR_RESUME_REPO_URL">
-<img src="https://img.shields.io/badge/Explore_Project-238636?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Ashish001123/Resume_Reader">
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
 </td>
 </tr>
+
 <tr>
 <td colspan="2" valign="top">
 
 <h3>🧪 CrowdAgent</h3>
 
-**AI-Powered Autonomous Application Testing Platform**
+<img src="https://img.shields.io/badge/AI-Autonomous_Agents-9B59B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-Playwright-2EAD33?style=flat-square"/>
 
-An AI testing platform exploring how multiple autonomous agents can interact with web applications like real users, execute workflows, and identify application weaknesses.
+**Autonomous AI Application Testing Platform**
 
-**Core focus**
-- Multiple autonomous testing agents
-- Browser automation using Playwright
-- Realistic user interaction simulation
-- Automated issue identification and classification
-- Structured test reporting
+Building an intelligent testing platform where multiple AI agents simulate realistic user interactions with web applications, execute workflows, identify weaknesses and generate structured testing reports.
 
-**Technology**
+**Core Capabilities**
 
-`Python` `FastAPI` `Playwright` `AI Agents`
+- Autonomous browser interaction
+- Playwright-powered automation
+- Simulated user workflows
+- Website behavior testing
+- Issue detection and classification
+- Structured issue reporting
+- Automated test execution
+- Application quality analysis
+
+**Technology Stack**
+
+`Python` `FastAPI` `Playwright` `Pydantic` `Pytest` `Uvicorn` `AsyncIO`
 
 <p>
 <a href="https://github.com/Ashish001123/CrowdAgent">
-<img src="https://img.shields.io/badge/Explore_Project-238636?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
@@ -118,84 +173,304 @@ An AI testing platform exploring how multiple autonomous agents can interact wit
 
 ---
 
-# ◈ TECHNOLOGY ARSENAL
+# ⚡ COMPLETE TECHNOLOGY STACK
 
-**Languages**
+### 01. Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js&perline=6" />
+</p>
 
-**Frontend**
+- Java
+- Python
+- C
+- C++
+- JavaScript
+- SQL
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+### 02. Frontend Development
 
-**Backend & Database**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap&perline=7" />
+</p>
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+- HTML5 and CSS3
+- JavaScript (ES6+)
+- React.js
+- Vite
+- Tailwind CSS
+- DaisyUI
+- Bootstrap
+- Zustand
+- Redux fundamentals
+- Axios
+- React Router
+- Responsive Web Design
 
-**AI & Engineering**
+### 03. Backend Development
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=6" />
+</p>
+
+- Node.js
+- Express.js
+- FastAPI
+- Flask
+- REST APIs and RESTful Architecture
+- JWT Authentication
+- Access and Refresh Tokens
+- Cookie-Based Authentication
+- Middleware Architecture
+- Socket.IO
+- WebSockets
+- Async Programming
+- Pydantic
+- API Integration
+- MVC Architecture
+
+### 04. Databases & Data Storage
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite&perline=6" />
+</p>
+
+- MongoDB
+- Mongoose
+- MySQL
+- PostgreSQL
+- Neon PostgreSQL
+- Redis
+- Upstash Redis
+- Qdrant Vector Database
+- FAISS Vector Search
+- Database Schema Design
+- SQL Queries and Joins
+- Database Relationships
+- Indexing Fundamentals
+
+### 05. Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=5" />
+</p>
+
+**Generative AI & LLM Engineering**
+
+- Large Language Models (LLMs)
+- Generative AI
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Embeddings
+- Vector Databases
+- Semantic Search
+- AI Agents
+- Tool Calling
+- Agent Workflows
+- Hugging Face
+- LoRA and Fine-Tuning Fundamentals
+- Ollama
+- OpenAI-Compatible APIs
+
+**Machine Learning & Deep Learning**
+
+- Python for Machine Learning
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- PyTorch fundamentals
+- Artificial Neural Networks
+- CNN Fundamentals
+- RNN Fundamentals
+- Transformers
+- NLP
+- Model Training
+- Model Evaluation
+- Hyperparameter Tuning
+- Classification
+- Regression
+
+### 06. Automation & Software Testing
+
+<p>
+<img src="https://skillicons.dev/icons?i=playwright,selenium&perline=5" />
+</p>
+
+- Playwright
+- Selenium fundamentals
+- Browser Automation
+- Automated UI Testing
+- API Testing
+- Pytest
+- Python AsyncIO
+- Pydantic Validation
+- Swagger UI
+- OpenAPI Documentation
+- Issue Classification
+- Test Reporting
+
+### 07. DevOps, Deployment & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash&perline=6" />
+</p>
+
+- Git
+- GitHub
+- Docker
+- Linux
+- Bash Fundamentals
+- Render
+- Vercel
+- Environment Configuration
+- CI/CD Fundamentals
+- Application Deployment
+- Cloud-Based Backend Deployment
+
+### 08. Developer Tools & Integrations
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,github&perline=5" />
+</p>
+
+**Development Tools**
+
+- Visual Studio Code
+- Postman
+- Swagger
+- Google Colab
+- Jupyter Notebook
+- Maven
+- npm
+- GitHub
+
+**Third-Party Integrations**
+
+- Stripe
+- Razorpay
+- Google Calendar API
+- Telegram Bot API
+- Cloudinary
+- Web Push Notifications
+- SMTP
+- Brevo
+- Resend
+- OpenAI API
+
+### 09. Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&perline=5" />
+</p>
+
+- Flutter
+- Dart
+- Android Application Development
+- REST API Integration
+- Mobile App Development
 
 ---
 
-# ◈ GITHUB ANALYTICS
+# 💼 OTHER PROJECTS
+
+| Project | Description | Repository |
+|---|---|---|
+| NXT – Next Talent | Creator and talent-focused social platform | [View](https://github.com/Ashish001123/NXT-Next-Talent) |
+| ShopSphereCart | Full-stack e-commerce application | [View](https://github.com/Ashish001123/ShopSphereCart) |
+| Campus Management | Java-based campus management project | [View](https://github.com/Ashish001123/CampusManagement) |
+| Full Stack Chat App | Real-time chat application | [View](https://github.com/Ashish001123/FullStack-Chat-App) |
+| Roadster Rivals | Web development project | [View](https://github.com/Ashish001123/Roadster-Rivals) |
+| FoodHub | Food-related web application | [View](https://github.com/Ashish001123/FoodHub) |
+| DSABot | DSA-related project | [View](https://github.com/Ashish001123/DSABot) |
+| Registration Form | Registration application | [View](https://github.com/Ashish001123/Registration-form) |
+| KeepersApp | Application development project | [View](https://github.com/Ashish001123/KeepersApp) |
+
+---
+
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashish001123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish001123&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashish001123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish001123&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish001123&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish001123&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+### 🟩 Contribution Activity
+
+<p align="center">
+<img src="https://ghchart.rshah.org/58A6FF/Ashish001123" width="100%" alt="GitHub contribution chart"/>
 </p>
 
 ---
 
-# ◈ BEYOND THE CODE
+# 🧠 PROBLEM SOLVING
 
-🌍 International academic experience at TU Chemnitz, Germany.
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" width="80%" alt="LeetCode statistics"/>
+</p>
 
-💡 Interested in building products from scratch.
-
-🧠 Continuously improving DSA and system design skills.
-
-🤖 Exploring the intersection of software engineering and artificial intelligence.
+- 100+ LeetCode problems solved.
+- Data Structures and Algorithms.
+- Trees, Graphs and Dynamic Programming.
+- Recursion and Backtracking.
+- String Algorithms.
+- SQL and Database Problem Solving.
 
 ---
 
-# ◈ LET'S CONNECT
+# 🌍 INTERNATIONAL EXPERIENCE
+
+### TU Chemnitz, Germany 🇩🇪
+
+International academic experience through a semester exchange program at Technische Universität Chemnitz, Germany.
+
+- International academic exposure.
+- Experience in a multicultural learning environment.
+- Exposure to international education and collaboration.
+
+### Chitkara University, India 🇮🇳
+
+Bachelor of Engineering – Computer Science Engineering.
+
+---
+
+# 🎯 CURRENT LEARNING GOALS
+
+- Building production-ready AI applications.
+- Advanced Backend Engineering.
+- System Design and Distributed Systems.
+- Agentic AI and Multi-Agent Architectures.
+- Advanced RAG Pipelines.
+- Browser Automation and Autonomous Testing.
+- Scalable Application Architecture.
+- Cloud Deployment and DevOps.
+
+---
+
+# 🤝 LET'S CONNECT
 
 <p align="center">
-  <a href="https://github.com/Ashish001123">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+<a href="https://github.com/Ashish001123">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
-  <i>"I don't just learn technologies. I use them to build things that matter."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <b>"Great ideas become great products through consistent engineering."</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
 </p>
