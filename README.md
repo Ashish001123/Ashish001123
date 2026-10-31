@@ -34,7 +34,6 @@ I'm a Computer Science Engineering student passionate about building scalable ap
 - 🌍 International academic experience at TU Chemnitz, Germany
 - 💻 Full-Stack & Backend Development
 - 🤖 Generative AI and AI Agents
-- 🧠 100+ LeetCode problems solved
 - 🚀 Building products from scratch
 
 </td>
@@ -43,7 +42,6 @@ I'm a Computer Science Engineering student passionate about building scalable ap
 ### 🎯 Current Interests
 
 - Backend system architecture
-- REST API development
 - Distributed systems
 - Large Language Models
 - Retrieval-Augmented Generation
@@ -275,7 +273,6 @@ Building an intelligent testing platform where multiple AI agents simulate reali
 
 **Machine Learning & Deep Learning**
 
-- Python for Machine Learning
 - NumPy
 - Pandas
 - Scikit-learn
@@ -389,40 +386,6 @@ Building an intelligent testing platform where multiple AI agents simulate reali
 
 ---
 
-# 📊 GITHUB ANALYTICS
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashish001123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish001123&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish001123&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-### 🟩 Contribution Activity
-
-<p align="center">
-<img src="https://ghchart.rshah.org/58A6FF/Ashish001123" width="100%" alt="GitHub contribution chart"/>
-</p>
-
----
-
-# 🧠 PROBLEM SOLVING
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" width="80%" alt="LeetCode statistics"/>
-</p>
-
-- 100+ LeetCode problems solved.
-- Data Structures and Algorithms.
-- Trees, Graphs and Dynamic Programming.
-- Recursion and Backtracking.
-- String Algorithms.
-- SQL and Database Problem Solving.
-
----
-
 # 🌍 INTERNATIONAL EXPERIENCE
 
 ### TU Chemnitz, Germany 🇩🇪
@@ -458,7 +421,7 @@ Bachelor of Engineering – Computer Science Engineering.
 <a href="https://github.com/Ashish001123">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="YOUR_LINKEDIN_PROFILE_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
